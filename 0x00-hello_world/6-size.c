@@ -3,7 +3,6 @@
  * main - A programe that prints the size of various types on the compter it is compiling
  * Return 0 (success)
  */
-
 int main(void)
 {
 char a;
