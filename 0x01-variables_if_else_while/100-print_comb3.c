@@ -19,11 +19,8 @@ int main(void)
 				putchar(d2 + '0');
 				putchar(d3 + '0');
 
-				if (d1 != 7 || d2 != 8 || d3 != 9)
-				{
+				if (!(d1 == 7 && d2 == 8 && d3 == 9))
 					putchar(',');
-					putchar(' ');
-				}
 			}
 		}
 	}
