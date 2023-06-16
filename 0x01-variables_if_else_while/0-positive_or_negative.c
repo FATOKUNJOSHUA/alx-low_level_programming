@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - A program that prints whether a number is positive, zero, or negative.
- * Return: (0); Always (success)
+ * main - A program that prints whether a number is positive,zero or negative.
+ * Return: Always 0
  */
 int main(void)
 {int n;
